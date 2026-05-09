@@ -66,14 +66,30 @@ Internet access is used only for essential app functionality, child-safe adverti
 Used for secure app distribution and essential Android services.
 
 #### **B. Firebase Analytics**
-Used for anonymous usage statistics and crash reporting. 
+Used for anonymous usage statistics and crash reporting.
 *   Data is **Aggregated, Anonymous, and Non-personal**.
 *   We do not use Firebase Analytics to personally identify users.
 
 #### **C. Google AdMob**
-We display limited child-appropriate advertisements. 
+We display limited child-appropriate advertisements.
 *   **Child Safety Settings:** We have enabled `tagForChildDirectedTreatment` and `maxAdContentRating = G`.
 *   **No Personalized Advertising:** We do NOT use behavioral advertising or interest-based targeting for children.
+
+#### **D. YouTube Player**
+Some educational content (stories and rhymes) may be displayed via YouTube's embedded player.
+*   We only embed **pre-selected, age-appropriate, child-safe** videos.
+*   YouTube's own privacy policy applies to video playback. We do not control YouTube's data practices.
+*   No YouTube account or login is required to watch videos in the app.
+
+#### **E. Text-to-Speech (TTS)**
+ZestKids uses the device's built-in **Text-to-Speech engine** to read stories and alphabets aloud for children.
+*   This feature works **entirely on-device**.
+*   No audio data is recorded, stored, or transmitted.
+
+#### **F. External Links**
+Certain sections of the app may use a **URL Launcher** to open external links (such as our Privacy Policy page) in the device's browser.
+*   We only link to our own official pages.
+*   We do not link to third-party commercial websites from within the app.
 
 ---
 
