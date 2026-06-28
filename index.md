@@ -1,6 +1,6 @@
 # Privacy Policy for ZestKids
 
-**Last Updated: June 27, 2026**
+**Last Updated: June 28, 2026**
 
 ZestKids ("we," "our," or "us") is committed to providing a safe, secure, and educational experience for children. This Privacy Policy explains how our application handles information and how we protect children's privacy in compliance with the following standards:
 
